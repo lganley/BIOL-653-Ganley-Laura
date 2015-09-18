@@ -1,5 +1,4 @@
 # BIOL-653-Ganley-Laura
-To get to this point I clicked on README.md in the repo.  Currently, I'm having issues pulling from the repository.  I continually get an error message about what seems to be a broken pathway concerning curl-ca-bundle.crt.  
-edit it so you can gitpush
-you always have to add and commit...then eventually push.  
-*italics*
+ 
+The typical workflow should consist of creating a .MD document in R Studio.  Once that is **SAVED** on my local computer it can be added to my github repository.  To do this I need to use the commands >block quote *git add name of file*, followed by *git commit -m'with a comment here'*, finally to get it up to the repo. *git push* (with no file name necessary at this point).  Git bash will likely ask for my github username and password at this point.  
+
